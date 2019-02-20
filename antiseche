@@ -1,0 +1,253 @@
+Parler fort, jusqu'à la fin de la phrase.
+
+
+Thanks for the introduction. This is a joint
+
+ I am going to present a joint work with Ahrens Maggesi and Hirschowitz about high level signatures and initial semantics
+-----------------
+Overview
+
+Let me give you an overview of this talk
+Our domain of intererst is the sepcification and construction of...
+
+  
+Now here is a brief account of our work and my goal in this talk is to explain the technical words in bold.
+
+But at least this the case for the classical algebraic signatures or binding signatures
+--
+Examples covered
+
+Here are some examples of operations covered by our result
+
+We can specify binary commutative operation, that is to say an operation m which given two expressions t and u builds a new one and such that the equation m(t,u)=m(u,t) at the level of the syntax.
+So you can see with this that we are able to embed a part of the semantics into the syntax.
+
+We have other examples such as explicit substitution with coherences, which means that we have in the syntax an explicit substitution operation which enjoys some coherences in the same fasion as the first example.
+
+
+This equations is usually part of the semantics and here we
+
+
+
+----
+Before going on, let me give you an intuition of how we can formally define what a syntax is
+A syntax is specified by a signature in the following sense.
+To any signature, there must be a category of models associated to it.
+The syntax is then defined as the initial model.
+
+We are interested in signatures that generate a syntax. What does that mean? 
+It means that the category of its models has an initial object, in other words there is an associated a syntax.
+For our notion of signature and models, it is not always the case. 
+
+-----
+Table of contents
+
+This is the plan of the talk.
+First I will reeview the well known notion of binding signatures and their models.
+Then I will define the notion fo signature & midels we work with, based on monads and modules.
+Eventually, I will present our main result: quotient of algebraic signatures or presentable signature generate a syntax.
+----
+Example 0,*
+
+Let us start with the example of a simple syntax specified by a binding signature.
+
+
+..
+For example, B of the empty set is the set of closed expressions
+B({x,y}).
+So you still have the closed expressions in this set
+
+All the operations in the syntax induce a natural transformation where the target is the syntax.
+
+...
+
+And this pattern generalizes to a class of syntaxes specified by binding signatures
+
+------
+Binding sig
+use the example while
+
+
+
+As an example of an operation binding of variable, think of the lambda abstraction.
+-------
+Initial semantics ofr binding singatures
+
+So now the reasoning we have done for the example of the language with 0 and star can be replayed for any syntax specifed by a binding signature.
+More precisely, we found that B is the initial algebra of this endo, and actually, any binding signature gives rise to an endofunctor, and we can define the syntax as its initial algebra. The notion of model here is an agelbra of Sigma + Id endofunctor because remember that the syntax is.
+
+Remembr that the sytnax is defined as the initial model and we expect it to come with a well-behaved substitution.
+
+
+it was shown in FPT using the notion of endofunctor with strength.
+a notion that was also used by Ghani and Uustalu in 2003 for specifing another example of syntax.
+
+---
+TOC
+
+how do we embed binding signatures in our framework.
+----
+THe big picture of signatue and models
+
+Here is a preview of our notions of signatures and models before I explain the technical terms.
+
+We work with a notion of signature that generalizes binding signatures as we will see later.
+
+
+.. which takes a monad R, that is an endofunctor with substitution,
+and assigns a module Sigma(R) over the monad R.
+A module is also an endofunctor with substitution; I will briefly present these notions in the following slides.
+
+In this talk, I will denote a monad by letter R
+
+..
+
+In the next slide I am going to explain monads and modules, specifically in the category of Set although the definition works for an arbitrary category.
+---
+Monads
+
+It is known that monad capture the notion of endofunctor with a well behaved substitution.
+
+Now I recall the well known notion of monad, starting from the example of our language B.
+We know, for example from the theorem of FIore PLotkin TUri that Ipresented, that this endofunctor comes with a substituion
+
+It takes an expression and a map assigning to each variable another expression and replaces in the first expression
+each variable with the corresponding expression given by the function.
+
+----
+Preview: operations are module morphisms
+Now I am going to motivate the notion of modules. I claim that operations in the syntax are module morphisms, that is , they commute with susbtitution.
+
+Indeed, look at the case of star.
+on the right hand side, susbtitutnio acted on a pair of expresssions.
+
+
+
+..
+We abstract the situation as follows:
+The fact that pairs of expressions support substitution with expressions of  B makes B x B a module over the monad B.
+Bx B is the module in the sense that it supports substitution
+star is a module morphism
+
+---
+Modules VS monades
+
+Think of M as B x B
+
+no variable inclusion
+
+Pour le bind, faire l'exemple du B x B au tableau
+
+++ Après le tableau, faire la def de morphismes au tableau éventuellement ?
+
+Note: B x B est aussi une monade, mais le morphisms * est un morphisme de modules, pas de monades.
+
+
+-----
+Examples of modules over a monad
+Now I gives some examples of modules over a monad R which allow to embedd binding signatures into our framework.
+
+each of these morphisms preserve substitutino.
+And there is also the import example of deriviative of a module which consists in considering expressions with one more fresh variable. More precisely, the derivative module M' maps a set X to M(X extended with a new element).
+
+---
+Examples of module morphisms
+
+Here I want to emphasize the fact that syntactic operations commute with substitution and thus are module morphisms.
+
+THe input of lambda abstraction is a term depending on an additionnal free variable, and as argued before, this is modelled by the derivative construction, hence the domaine
+
+if a lambda term t takes variables in a set Y extending with a new variable x, which by definition of the
+derivative means that t belongs to L'(Y), then we can abstract over this fresh variable x to yield the term lambda x.t whose free variables are in Y.
+
+These cannot be
++++ Faire l'exemple lambda abstraction au tableau
+
+----
+Now that I have explained the terms, here is again our definition of signatures and models.
+
+--
+signature generating syntax
+The same reasoning can be replayed for the monad calculus example.
+backward from syntax to model
+
+Any signature constructed using derivatives, products, coproducts, and the trivial signature which maps a monad R to itsel generates a syntax.
+
+-----------
+Algebraic signatures
+
+Actaully these algebraic signatures correspond to the embedding of binding signatures into our signatures.
+This is how we embedd binding signatures into our framework
+
+--------
+
+Example commutative operation
+
+the full subcategory of models satisfying this equation
+Challenge remains: show that there is an initial model in this category
+
+expliquer ce que c'est que swap
+
+---
+Equations
+
+Faire l'exemple opération binaire commutative au tableau
+Rappeler ce qu'est un 1-modele
+
+Category de 2-models: c'est la sous catégorie pleine
+
+----
+Algebraic 2-signature
+
+Expliquer au tableau le pointwise epi ?
+
+Rappeler au tableau ce que veut dire 1-algebraic : coproduct of products of finite derivative
+
+Donner des exemplse au tableau:
+reprendre l'exemple oépration binaire commutative
+lambda calcul modulo beta and eta
+
+
+---
+example : fixpoint operator
+
+This is an elementary equation
+
+------
+Quotient of a signature
+Before defining presentable signatures, I need the notion of quotient of a signature.
+To motive the definition of quotient of a signature, I start with a definition of set quotients.
+
+A quotient of a set X can be defined as a set Y, 
+The underlying relation is specified as follows:
+
+.. if their image by p are equal
+so that p can be understood as the canonical projection.
+
+Inspired by this definition, we define a quotient of a signature Sigma.
+
+That entails that we pointwise set quotients.
+
+----
+Syntax for presentable signatures
+Our main result is about quotient of binding signatures that we call presentable signatures.
+Indeed, we show that any presentable signature generates a syntax.
+
+More cane be found in the article
+
+
+--
+A binary commutative operation is a binary operation + such that for any pair of expression t and u.
+
+------
+Explicit substitution
+
+Also we can model an explicit substitution in the syntax.
+
+
+------------------
+------------------
+------------------
+------------------
+
+Slide sur les monades: ralentir et expliquer au tableau
