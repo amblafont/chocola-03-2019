@@ -44,7 +44,7 @@ Table of contents
 
 This is the plan of the talk.
 First I will reeview the well known notion of binding signatures and their models.
-Then I will define the notion fo signature & midels we work with, based on monads and modules.
+Then I will define the notion fo signature & midels we work withns1:effectOut="name:appear;order:11;length:800", based on monads and modules.
 Eventually, I will present our main result: quotient of algebraic signatures or presentable signature generate a syntax.
 ----
 Example 0,*
@@ -189,6 +189,11 @@ Challenge remains: show that there is an initial model in this category
 expliquer ce que c'est que swap
 
 ---
+review
+
+Fiore-Hur ⇒ the initial model always exists.
+
+---
 Equations
 
 Faire l'exemple opération binaire commutative au tableau
@@ -212,6 +217,13 @@ lambda calcul modulo beta and eta
 example : fixpoint operator
 
 This is an elementary equation
+----
+example : free monoid monad
+
+
+Keep in mind that you can combine it
+
+We could do it for groups or other stuff
 
 ------
 Quotient of a signature
