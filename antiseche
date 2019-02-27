@@ -212,6 +212,12 @@ Donner des exemplse au tableau:
 reprendre l'exemple oépration binaire commutative
 lambda calcul modulo beta and eta
 
+--
+lambda calcul modulo beta et eta:
+
+Expliquer la substitution de l'équation beta au tableau
+Expliquer le Rι de l'équation eta au tableau
+
 
 ---
 example : fixpoint operator
