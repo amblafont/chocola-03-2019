@@ -250,6 +250,12 @@ example : free monoid monad
 Keep in mind that you can combine it
 
 We could do it for groups or other stuff
+---
+Computing the size
+Let us finish with a last example. It looks easier than the previous one, but actually, there is a trap
+can you guess what it is ?
+
+However there is a solution to this: instead of targeting the set of natural numbers, we target the continuation monad
 
 ------
 Quotient of a signature
