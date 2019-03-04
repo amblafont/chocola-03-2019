@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1028646"
+     inkscape:zoom="1.0659752"
      inkscape:cx="511.42862"
      inkscape:cy="388.57142"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9622"
+     inkscape:current-layer="g19987"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
-     inkscape:window-height="1012"
+     inkscape:window-height="983"
      inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-y="76"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -7505,7 +7505,7 @@
      inkscape:label="The Big Picture of 1-signatures and models"
      id="g47376"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot47284"
@@ -8011,7 +8011,7 @@
 <polygon
    id="polygon492819"
    style="fill:#002b00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="228.37,642.79 229.73,642.79 229.73,643.18 228.76,643.18 228.76,652.35 229.73,652.35 229.73,652.75 228.37,652.75 " />
+   points="229.73,643.18 228.76,643.18 228.76,652.35 229.73,652.35 229.73,652.75 228.37,652.75 228.37,642.79 229.73,642.79 " />
 <path
    id="path492821"
    style="fill:#002b00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -8030,7 +8030,7 @@
 <polygon
    id="polygon492827"
    style="fill:#002b00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="248.7,642.79 248.7,652.75 247.34,652.75 247.34,652.35 248.3,652.35 248.3,643.18 247.34,643.18 247.34,642.79 " />
+   points="247.34,652.75 247.34,652.35 248.3,652.35 248.3,643.18 247.34,643.18 247.34,642.79 248.7,642.79 248.7,652.75 " />
 <path
    id="path492829"
    style="fill:#002b00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9161,7 +9161,7 @@
 <polygon
    id="polygon5360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 " />
+   points="170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 " />
 <path
    inkscape:connector-curvature="0"
    d="m 174.07,660.24 0.01,0.03 0.01,0.03 v 0.03 l 0.01,0.04 0.01,0.03 0.02,0.05 0.01,0.04 0.01,0.04 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.03,0.05 0.04,0.04 0.03,0.05 0.04,0.04 0.04,0.03 0.05,0.04 0.05,0.03 0.04,0.03 0.03,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.02 l 0.03,0.01 0.03,0.01 h 0.03 0.03 l 0.04,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.53,0.18 0.53,0.58 0,0.52 -0.58,0.66 -0.92,0.66 -0.58,0 -0.93,-0.53 -1.05,-0.76 -0.25,0.66 -0.78,0.76 -1.07,0.76 -1.04,0 -1.61,-1.29 -1.61,-1.54 0,-0.1 0.1,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.06 1,1.31 1.34,1.31 0.19,0 0.53,-0.09 0.53,-0.67 0,-0.31 -0.17,-0.98 -0.53,-2.37 -0.16,-0.62 -0.51,-1.04 -0.95,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.3,0 -0.55,-0.26 -0.55,-0.58 0,-0.46 0.5,-0.66 0.94,-0.66 0.66,0 1.02,0.7 1.05,0.76 0.12,-0.37 0.47,-0.76 1.07,-0.76 1.03,0 1.6,1.29 1.6,1.54 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.04 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.33,-1.31 -0.39,0 -0.55,0.32 -0.55,0.66 0,0.22 0.06,0.44 0.17,0.88 z"
@@ -9190,7 +9190,7 @@
 <polygon
    id="polygon5372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 " />
+   points="202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 " />
 <path
    inkscape:connector-curvature="0"
    d="m 214.16,660.49 h 0.03 0.03 0.03 0.01 0.02 0.01 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.01 l 0.02,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0.01 h 0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 0.01 0.01 h 0.01 v 0.01 0.01 0.01 0.01 c 0,0.2 -0.19,0.2 -0.33,0.2 h -5.97 c -0.14,0 -0.33,0 -0.33,-0.2 0,-0.2 0.19,-0.2 0.34,-0.2 z"
@@ -9209,7 +9209,7 @@
 <polygon
    id="polygon5380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 " />
+   points="223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 " />
 <path
    inkscape:connector-curvature="0"
    d="m 227.52,660.24 0.01,0.03 0.01,0.03 0.01,0.03 0.01,0.04 0.01,0.03 0.01,0.05 0.01,0.04 0.02,0.04 0.01,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.02,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.03,0.05 0.04,0.04 0.04,0.05 0.04,0.04 0.04,0.03 0.04,0.04 0.05,0.03 0.05,0.03 0.02,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.03 l 0.03,0.01 0.03,0.01 h 0.03 0.03 l 0.03,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.54,0.18 0.54,0.58 0,0.52 -0.59,0.66 -0.93,0.66 -0.58,0 -0.92,-0.53 -1.04,-0.76 -0.25,0.66 -0.79,0.76 -1.08,0.76 -1.04,0 -1.61,-1.29 -1.61,-1.54 0,-0.1 0.11,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.06 1,1.31 1.34,1.31 0.19,0 0.54,-0.09 0.54,-0.67 0,-0.31 -0.17,-0.98 -0.54,-2.37 -0.16,-0.62 -0.51,-1.04 -0.95,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.29,0 -0.54,-0.26 -0.54,-0.58 0,-0.46 0.5,-0.66 0.93,-0.66 0.66,0 1.02,0.7 1.05,0.76 0.12,-0.37 0.48,-0.76 1.07,-0.76 1.03,0 1.6,1.29 1.6,1.54 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.04 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.32,-1.31 -0.39,0 -0.55,0.32 -0.55,0.66 0,0.22 0.06,0.44 0.17,0.88 z"
@@ -9236,7 +9236,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5390" />
 <polygon
-   points="255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 "
+   points="255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5392" />
 <path
@@ -9245,7 +9245,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5394" />
 <polygon
-   points="267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 "
+   points="267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5396" />
 <path
@@ -9274,7 +9274,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5406" />
 <polygon
-   points="299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 "
+   points="299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5408" />
 </g>    <path
@@ -9345,7 +9345,7 @@
 <polygon
    id="polygon92358"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="179.51,655.14 179.51,664.31 180.48,664.31 180.48,664.7 179.11,664.7 179.11,654.74 180.48,654.74 180.48,655.14 " />
+   points="179.11,664.7 179.11,654.74 180.48,654.74 180.48,655.14 179.51,655.14 179.51,664.31 180.48,664.31 180.48,664.7 " />
 <path
    id="path92360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9374,7 +9374,7 @@
 <polygon
    id="polygon92370"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="211.96,664.31 212.93,664.31 212.93,655.14 211.96,655.14 211.96,654.74 213.32,654.74 213.32,664.7 211.96,664.7 " />
+   points="211.96,654.74 213.32,654.74 213.32,664.7 211.96,664.7 211.96,664.31 212.93,664.31 212.93,655.14 211.96,655.14 " />
 <path
    id="path92372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9393,7 +9393,7 @@
 <polygon
    id="polygon92378"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="232.96,655.14 232.96,664.31 233.93,664.31 233.93,664.7 232.57,664.7 232.57,654.74 233.93,654.74 233.93,655.14 " />
+   points="232.57,664.7 232.57,654.74 233.93,654.74 233.93,655.14 232.96,655.14 232.96,664.31 233.93,664.31 233.93,664.7 " />
 <path
    id="path92380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9422,7 +9422,7 @@
 <polygon
    id="polygon92390"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="265.41,664.31 266.38,664.31 266.38,655.14 265.41,655.14 265.41,654.74 266.78,654.74 266.78,664.7 265.41,664.7 " />
+   points="265.41,654.74 266.78,654.74 266.78,664.7 265.41,664.7 265.41,664.31 266.38,664.31 266.38,655.14 265.41,655.14 " />
 <path
    id="path92392"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9436,7 +9436,7 @@
 <polygon
    id="polygon92396"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="287.41,655.14 287.41,664.31 288.38,664.31 288.38,664.7 287.02,664.7 287.02,654.74 288.38,654.74 288.38,655.14 " />
+   points="287.02,664.7 287.02,654.74 288.38,654.74 288.38,655.14 287.41,655.14 287.41,664.31 288.38,664.31 288.38,664.7 " />
 <path
    id="path92398"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -9465,7 +9465,7 @@
 <polygon
    id="polygon92408"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="319.86,664.31 320.83,664.31 320.83,655.14 319.86,655.14 319.86,654.74 321.23,654.74 321.23,664.7 319.86,664.7 " />
+   points="319.86,654.74 321.23,654.74 321.23,664.7 319.86,664.7 319.86,664.31 320.83,664.31 320.83,655.14 319.86,655.14 " />
 </g>  </g>
   <g
      style="display:none"
@@ -12032,9 +12032,13 @@
    id="flowSpan93537"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">↦</flowSpan> 1 <flowSpan
    id="flowSpan93539"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1">∐</flowSpan> R <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1">∐</flowSpan> <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan546226">(</flowSpan>R <flowSpan
    id="flowSpan93541"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">×</flowSpan> R </flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">×</flowSpan> R</flowSpan><flowSpan
+           id="flowSpan546224"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">)</flowSpan></flowPara><flowPara
          id="flowPara93547"
          style="font-weight:normal;font-size:26.66666794px" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -12056,9 +12060,13 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan93513">↦</flowSpan> R' <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1"
-   id="flowSpan546202">∐</flowSpan> R <flowSpan
+   id="flowSpan546202">∐</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan93517">×</flowSpan> R </flowSpan></flowPara><flowPara
+   id="flowSpan546228">(</flowSpan>R <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan93517">×</flowSpan> R<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan546230">)</flowSpan> </flowSpan></flowPara><flowPara
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara93429" /></flowRoot>    <flowRoot
        xml:space="preserve"
