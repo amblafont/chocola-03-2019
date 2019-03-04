@@ -4,6 +4,14 @@ Parler fort, jusqu'à la fin de la phrase.
 Thanks for the introduction. This is a joint
 
  I am going to present a joint work with Ahrens Maggesi and Hirschowitz about high level signatures and initial semantics
+ ----
+Keywords
+Our work is about the world of syntax.
+
+Syntax comes with a substitution, you can do induction/recursion on this. Operations/constructions in the syntax, specified by arities/signatures
+----------------------
+Motivation: LCD
+To motivate our work, let me introduce the syntax of differential λ-calculus.
 -----------------
 Overview
 
@@ -39,25 +47,31 @@ We are interested in signatures that generate a syntax. What does that mean?
 It means that the category of its models has an initial object, in other words there is an associated a syntax.
 For our notion of signature and models, it is not always the case. 
 
+--
+previous work
+where we focus on monads and modules over them.
+
 -----
 Table of contents
 
 This is the plan of the talk.
 First I will reeview the well known notion of binding signatures and their models.
 Then I will define the notion fo signature & midels we work withns1:effectOut="name:appear;order:11;length:800", based on monads and modules.
-Eventually, I will present our main result: quotient of algebraic signatures or presentable signature generate a syntax.
+Finally I will give examples of recursions that you can perform on the syntax in our setting.
 ----
 Example 0,*
 
 Let us start with the example of a simple syntax specified by a binding signature.
 
 
+parallel renaming: given a reanming f : X -> Y
 ..
 For example, B of the empty set is the set of closed expressions
 B({x,y}).
 So you still have the closed expressions in this set
 
 All the operations in the syntax induce a natural transformation where the target is the syntax.
+Natural transformation = commutes with variable renaming
 
 ...
 
@@ -100,6 +114,8 @@ A module is also an endofunctor with substitution; I will briefly present these 
 
 In this talk, I will denote a monad by letter R
 
+as we will see in the next slide, LCD suports substitution and thus is a monad, and the operations + and 0 commute with substitution.
+
 ..
 
 In the next slide I am going to explain monads and modules, specifically in the category of Set although the definition works for an arbitrary category.
@@ -141,6 +157,10 @@ Pour le bind, faire l'exemple du B x B au tableau
 ++ Après le tableau, faire la def de morphismes au tableau éventuellement ?
 
 Note: B x B est aussi une monade, mais le morphisms * est un morphisme de modules, pas de monades.
+---
+Variables: how would you embed variables in the constant endofucntor 2 ?
+If a assign a B-term to each variable, then I can substitute any M-terms
+If M = B, you recover the usual definition
 
 
 -----
