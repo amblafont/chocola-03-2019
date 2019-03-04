@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80986325"
+     inkscape:zoom="0.78365116"
      inkscape:cx="511.42862"
      inkscape:cy="231.73936"
      inkscape:document-units="mm"
-     inkscape:current-layer="g36238"
+     inkscape:current-layer="g71622"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -3871,7 +3871,7 @@
      inkscape:label="Syntax of LCD: Conclusion"
      id="g71622"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot71514"
@@ -3920,7 +3920,7 @@
        xml:space="preserve"
        id="flowRoot71602"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-27.347091,-9.7955267)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-27.347091,37.810158)"><flowRegion
          id="flowRegion71586"><rect
            id="rect71584"
            width="1091.9066"
@@ -3944,7 +3944,7 @@
        xml:space="preserve"
        id="flowRoot71612"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,77.571939,87.246897)"
+       transform="matrix(0.26458333,0,0,0.26458333,77.571939,123.03556)"
        ns1:effectIn="name:appear;order:2;length:800"><flowRegion
          id="flowRegion71606"><rect
            id="rect71604"
@@ -3954,7 +3954,19 @@
            y="179.20021" /></flowRegion><flowPara
          style="font-weight:bold;font-size:26.66666794px"
          id="flowPara71610">What is a syntax ?</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,199.11409)"
+       xml:space="preserve"
+       id="flowRoot419511"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,199.11409)"><flowRegion
+         id="flowRegion419507"><rect
+           id="rect419505"
+           width="1023.9102"
+           height="391.57135"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara419509">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,-6.5019545)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot71620"
        xml:space="preserve"><flowRegion
@@ -3965,7 +3977,13 @@
            width="1023.9102"
            id="rect71614" /></flowRegion><flowPara
          id="flowPara71618"
-         style="font-weight:normal;font-size:26.66666794px">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>  </g>
+         style="font-weight:normal;font-size:26.66666794px">There is no well-established <flowSpan
+   style="font-style:italic"
+   id="flowSpan419517">scheme</flowSpan> for presenting a syntax.</flowPara><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara419521" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara419513">We propose such a scheme (which is the counterpart of a mathematical theory of presentations of monads).</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
@@ -6491,7 +6509,7 @@
      inkscape:label="Initial semantics for binding signatures"
      id="g36238"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot36078"
@@ -6866,7 +6884,7 @@
            id="rect34915-3" /></flowRegion><flowPara
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara34935-2">Similarly, any binding signature gives rise to a category of models.</flowPara></flowRoot>    <flowRoot
-       
+       ns1:effectIn="name:appear;order:13;length:800"
        xml:space="preserve"
        id="flowRoot43718-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -6881,7 +6899,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan43714-0">+ :</flowSpan> </flowPara></flowRoot>    <flowRoot
-       
+       ns1:effectIn="name:appear;order:13;length:800"
        transform="matrix(0.26458333,0,0,0.26458333,9.2746087,-46.442309)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot61287-3"
@@ -6896,7 +6914,7 @@
          id="flowPara61285-3"><flowSpan
    id="flowSpan61283-5"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">0 :</flowSpan> </flowPara></flowRoot>    <flowRoot
-       
+       ns1:effectIn="name:appear;order:13;length:800"
        transform="matrix(0.26458333,0,0,0.26458333,2.7840487,-34.413745)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot26422-5"
@@ -6915,7 +6933,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot393201"
        xml:space="preserve"
-       ><flowRegion
+       ns1:effectIn="name:appear;order:13;length:800"><flowRegion
          id="flowRegion393193"><rect
            y="129.23077"
            x="51.692307"
@@ -6928,7 +6946,7 @@
    id="flowSpan393195">model</flowSpan> of (0, +) <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan393197">=</flowSpan> endofunctor R with natural transformations:</flowPara></flowRoot>    <flowRoot
-       
+       ns1:effectIn="name:appear;order:13;length:800"
        xml:space="preserve"
        id="flowRoot5609-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -6947,7 +6965,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">=</flowSpan> natural transformation commuting with 0, + and <flowSpan
    id="flowSpan407095"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">var</flowSpan>.</flowPara></flowRoot>    <g
-       
+       ns1:effectIn="name:appear;order:13;length:800"
        id="g382168-4"
        transform="matrix(0.79718601,0,0,-0.79718601,-122.98163,562.88396)"
        xml:space="preserve"
@@ -7020,7 +7038,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path382156-3" />
 <polygon
-   points="301.36,612.34 301.36,605.43 302.24,605.43 302.24,612.34 "
+   points="302.24,605.43 302.24,612.34 301.36,612.34 301.36,605.43 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon382158-9" />
 <path
