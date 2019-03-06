@@ -1,4 +1,5 @@
-Pourquoi imposer que les équations soient des morphismes de modules ? pourquoi pas simplement des transfo nats ?
+belemino acateli
+
 ---
 Parler fort, jusqu'à la fin de la phrase.
 
@@ -15,7 +16,7 @@ Syntax comes with a substitution, you can do induction/recursion on this. Operat
 In this talk I will give a point of view on this topic
 ----------------------
 Motivation: LCD
-To motivate our work, let me introduce the syntax of differential λ-calculus.
+To motivate our work, I will introduce the syntax of differential λ-calculus.
 -----------------
 Overview
 

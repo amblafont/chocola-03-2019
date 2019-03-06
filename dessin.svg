@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80592775"
-     inkscape:cx="733.34324"
+     inkscape:zoom="0.77984304"
+     inkscape:cx="778.86522"
      inkscape:cy="232.96585"
      inkscape:document-units="mm"
      inkscape:current-layer="g59406"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -2501,7 +2501,7 @@
      style="display:inline"
      inkscape:groupmode="layer"
      id="g59406"
-     inkscape:label="Motivation: LCD">
+     inkscape:label="Motivation: dLC">
     <flowRoot
        xml:space="preserve"
        id="flowRoot59220"
@@ -2558,7 +2558,7 @@
            width="1013.609"
            id="rect562831" /></flowRegion><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara562845">LCD<flowSpan
+         id="flowPara562845">dLC<flowSpan
    id="flowSpan562877"
    style="font-style:italic;font-weight:bold;font-size:26.66666794px"> <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold Italic'"
@@ -2653,7 +2653,7 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara407101">Next slides: 3 variants of the LCD syntax:</flowPara></flowRoot>    <flowRoot
+         id="flowPara407101">Next slides: 3 variants of the dLC syntax:</flowPara></flowRoot>    <flowRoot
        ns1:effectIn="name:appear;order:2;length:800"
        transform="matrix(0.26458333,0,0,0.26458333,-7.096271,227.71142)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -2742,7 +2742,7 @@
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara569510">• induces a scheme for presenting syntaxes.</flowPara></flowRoot>  </g>
   <g
-     inkscape:label="Syntax of LCD: version 1/3"
+     inkscape:label="Syntax of dLC: version 1/3"
      id="g10823"
      inkscape:groupmode="layer"
      style="display:none">
@@ -3065,7 +3065,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g6527"
-     inkscape:label="Syntax of LCD: version 2/3">
+     inkscape:label="Syntax of dLC: version 2/3">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6360"
@@ -3276,7 +3276,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22882573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
   <g
-     inkscape:label="Syntax of LCD: version 3/3"
+     inkscape:label="Syntax of dLC: version 3/3"
      id="g23650"
      inkscape:groupmode="layer"
      style="display:none">
@@ -4027,7 +4027,7 @@
            y="314.91479" /></flowRegion><flowPara
          id="flowPara58972" /></flowRoot>  </g>
   <g
-     inkscape:label="Syntax of LCD: Conclusion"
+     inkscape:label="Syntax of dLC: Conclusion"
      id="g71622"
      inkscape:groupmode="layer"
      style="display:none">
@@ -5103,7 +5103,7 @@
          id="flowPara37584"
          style="font-weight:bold;font-size:26.66666794px"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'"
-   id="flowSpan37698">⇒</flowSpan> LCD is an endofunctor on <flowSpan
+   id="flowSpan37698">⇒</flowSpan> dLC is an endofunctor on <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'"
    id="flowSpan37696">Set</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -5144,7 +5144,7 @@
            width="944.02972"
            id="rect37596" /></flowRegion><flowPara
          id="flowPara37600"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">LCD(f)  :  LCD(X) →      LCD(Y)</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">dLC(f)  :  dLC(X) →      dLC(Y)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot18139"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -5361,7 +5361,7 @@
        ns0:alignment="middle center"
        ns0:scale="2.50000008505"
        ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
-       ns0:text="$\nLCD: X\\mapsto \\{ \\text{terms taking free variables in $X$} \\}\n$"
+       ns0:text="$\ndLC: X\\mapsto \\{ \\text{terms taking free variables in $X$} \\}\n$"
        ns0:pdfconverter="pstoedit"
        ns0:texconverter="pdflatex"
        ns0:version="0.8.0"
@@ -5583,7 +5583,7 @@
        ns0:alignment="middle center"
        ns0:scale="2.50000008505"
        ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
-       ns0:text="$\nLCD(\\{x,y\\})=\n\\{\n0, \\lambda z.z, \\dots,\nx,y,x+ y , \\dots\n\\}\n$"
+       ns0:text="$\ndLC(\\{x,y\\})=\n\\{\n0, \\lambda z.z, \\dots,\nx,y,x+ y , \\dots\n\\}\n$"
        ns0:pdfconverter="pstoedit"
        ns0:texconverter="pdflatex"
        ns0:version="0.8.0"
@@ -5785,7 +5785,7 @@
        ns0:alignment="middle center"
        ns0:scale="2.25974009438"
        ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
-       ns0:text="$\nLCD(\\emptyset)=\n\\{\n0, \\lambda z.z ,  \\dots\n\\}\n$"
+       ns0:text="$\ndLC(\\emptyset)=\n\\{\n0, \\lambda z.z ,  \\dots\n\\}\n$"
        ns0:pdfconverter="pstoedit"
        ns0:texconverter="pdflatex"
        ns0:version="0.8.0"
@@ -5982,11 +5982,11 @@
            x="297.66745"
            y="396.59018" /></flowRegion><flowPara
          id="flowPara43706"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">       LCD <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">       dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan43702">×</flowSpan> LCD  <flowSpan
+   id="flowSpan43702">×</flowSpan> dLC  <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan43704">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   id="flowSpan43704">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,87.846274,-36.622442)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot43758"
@@ -6000,7 +6000,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
          id="flowPara43756">  <flowSpan
    id="flowSpan43754"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot43730"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -6131,7 +6131,7 @@
    id="flowSpan35031"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;fill:#0000ff">Set</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan291732">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   id="flowSpan291732">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot249249"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -6243,9 +6243,9 @@
            x="297.66745"
            y="396.59018" /></flowRegion><flowPara
          id="flowPara5153"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">LCD <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">dLC <flowSpan
    id="flowSpan180397"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">×</flowSpan> LCD <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">×</flowSpan> dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan291738">+ 1</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
@@ -6255,7 +6255,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;fill:#0000ff"
    id="flowSpan35041">Set</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan291734">→</flowSpan> LCD</flowPara></flowRoot>    <circle
+   id="flowSpan291734">→</flowSpan> dLC</flowPara></flowRoot>    <circle
        style="display:inline;fill:#000000;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.03662297;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path43682"
        cx="156.84164"
@@ -7034,7 +7034,7 @@
            width="992.53168"
            id="rect36340-7" /></flowRegion><flowPara
          id="flowPara36346-5"
-         style="font-size:26.66666794px">e.g. LCD is a model of the (0,+) signature</flowPara></flowRoot>    <g
+         style="font-size:26.66666794px">e.g. dLC is a model of the (0,+) signature</flowPara></flowRoot>    <g
        transform="translate(277.78958,17.875135)"
        style="display:inline"
        id="g3493-9">
@@ -7952,7 +7952,7 @@
            style="font-size:26.66666794px;fill:#002b00;fill-opacity:1"
            id="flowPara34493-1"><flowSpan
    style="font-weight:bold"
-   id="flowSpan569492">LCD</flowSpan> <flowSpan
+   id="flowSpan569492">dLC</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan569490">=</flowSpan> model of <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
@@ -8081,7 +8081,7 @@
        ns0:alignment="middle center"
        ns0:scale="2.25974012273"
        ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
-       ns0:text="\\[\n[+,0] : (LCD \\times LCD)\\coprod 1 \\to LCD\n\\]"
+       ns0:text="\\[\n[+,0] : (dLC \\times dLC)\\coprod 1 \\to dLC\n\\]"
        ns0:pdfconverter="pstoedit"
        ns0:texconverter="pdflatex"
        ns0:version="0.8.0"
@@ -8385,7 +8385,7 @@
          style="font-size:26.66666794px"
          id="flowPara291611"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan291607">  LCD(X)</flowSpan><flowSpan
+   id="flowSpan291607">  dLC(X)</flowSpan><flowSpan
    id="flowSpan70491"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"> = {</flowSpan> differential λ-terms taking free variables in <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
@@ -8433,7 +8433,7 @@
          style="font-size:26.66666794px"
          id="flowPara291573"><flowSpan
            id="flowSpan71369"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">                                 LCD</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">                                 dLC</flowSpan><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
            id="flowSpan70485">(f)(t) = t[ x ↦ f(x) ] </flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -8513,7 +8513,7 @@
          style="font-size:26.66666794px"
          id="flowPara60257"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan291693">(LCD, <flowSpan
+   id="flowSpan291693">(dLC, <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan87223">var</flowSpan>, <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
@@ -8534,7 +8534,7 @@
          style="font-size:26.66666794px"
          id="flowPara71351"><flowSpan
    style="font-weight:bold"
-   id="flowSpan71345">monad morphism</flowSpan> = mapping preserving varaiables and substitutions.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan71345">monad morphism</flowSpan> = mapping preserving variables and substitutions.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot19300-7"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -8580,7 +8580,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub"
    id="flowSpan291655">Set</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan291720">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   id="flowSpan291720">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot87259"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -8656,7 +8656,7 @@
          id="flowPara37684-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">f : X → <flowSpan
    id="flowSpan72517"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#ff0000">LCD</flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#ff0000">dLC</flowSpan><flowSpan
    style="fill:#ff0000"
    id="flowSpan503845">(Y)</flowSpan></flowPara></flowRoot>    <flowRoot
        ns1:effectIn="name:appear;order:3;length:800"
@@ -8688,9 +8688,9 @@
    id="flowSpan72511"
    style="font-size:64.99999762%;baseline-shift:sub">f  </flowSpan>  :  <flowSpan
    id="flowSpan72513"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">LCD</flowSpan>(X)   →      <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">dLC</flowSpan>(X)   →      <flowSpan
    id="flowSpan72515"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">LCD</flowSpan>(Y)</flowPara></flowRoot>    <flowRoot
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">dLC</flowSpan>(Y)</flowPara></flowRoot>    <flowRoot
        ns1:effectIn="name:appear;order:3;length:800"
        transform="matrix(0.26458333,0,0,0.26458333,64.147336,116.49511)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -8864,15 +8864,15 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan294675">+ :</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan96531">LCD</flowSpan><flowSpan
+   id="flowSpan96531">dLC</flowSpan><flowSpan
    id="flowSpan293162"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Asana Math';-inkscape-font-specification:'Asana Math'"> × </flowSpan><flowSpan
    id="flowSpan96537"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">LCD</flowSpan> <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">dLC</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan294673">→</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan96529">LCD</flowSpan><flowSpan
+   id="flowSpan96529">dLC</flowSpan><flowSpan
    id="flowSpan293166"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"><flowSpan
    style="font-weight:normal"
@@ -8894,9 +8894,9 @@
          style="font-size:26.66666794px"
          id="flowPara96297"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan96295">LCD <flowSpan
+   id="flowSpan96295">dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan96293">×</flowSpan> LCD</flowSpan> supports </flowPara><flowPara
+   id="flowSpan96293">×</flowSpan> dLC</flowSpan> supports </flowPara><flowPara
          id="flowPara96299"
          style="font-size:26.66666794px" /><flowPara
          style="font-size:26.66666794px"
@@ -8916,7 +8916,7 @@
          style="font-size:26.66666794px"
          id="flowPara96287"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan96539">LCD</flowSpan>-substitution </flowPara><flowPara
+   id="flowSpan96539">dLC</flowSpan>-substitution </flowPara><flowPara
          id="flowPara293190"
          style="font-size:26.66666794px" /></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,123.703,-7.0361822)"
@@ -8932,13 +8932,13 @@
          style="font-size:26.66666794px"
          id="flowPara291848"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="flowSpan291850">LCD <flowSpan
+   id="flowSpan291850">dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan291852">×</flowSpan> LCD</flowSpan> is a <flowSpan
+   id="flowSpan291852">×</flowSpan> dLC</flowSpan> is a <flowSpan
    style="font-weight:bold"
    id="flowSpan293206">module over </flowSpan><flowSpan
    id="flowSpan293210"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">LCD</flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">dLC</flowSpan></flowPara><flowPara
          style="font-size:26.66666794px"
          id="flowPara110561" /></flowRoot>    <path
        sodipodi:nodetypes="ccccc"
@@ -9802,11 +9802,11 @@
            width="986.54138"
            id="rect110490" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-         id="flowPara110500">app : LCD <flowSpan
+         id="flowPara110500">app : dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92891">×</flowSpan> LCD <flowSpan
+   id="flowSpan92891">×</flowSpan> dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92893">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   id="flowSpan92893">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.28665502,0,0,0.28665502,69.282509,-80.826909)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot92877"
@@ -9822,11 +9822,11 @@
            id="flowSpan92931"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan96615">+</flowSpan> : LCD <flowSpan
+   id="flowSpan96615">+</flowSpan> : dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92889">×</flowSpan> LCD <flowSpan
+   id="flowSpan92889">×</flowSpan> dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92887">→</flowSpan> LCD</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan92887">→</flowSpan> dLC</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot123389"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -9846,7 +9846,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
    id="flowSpan92941">1</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92883">→</flowSpan> LCD</flowSpan> </flowPara></flowRoot>    <flowRoot
+   id="flowSpan92883">→</flowSpan> dLC</flowSpan> </flowPara></flowRoot>    <flowRoot
        transform="scale(0.26458333)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot123397"
@@ -9880,9 +9880,9 @@
            x="38.984772"
            y="172.3127" /></flowRegion><flowPara
          id="flowPara123407"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Italic'">abs : LCD' <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Italic'">abs : dLC' <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-   id="flowSpan92922">→</flowSpan> LCD</flowPara></flowRoot>    <flowRoot
+   id="flowSpan92922">→</flowSpan> dLC</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot123445"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -12799,11 +12799,11 @@
            width="998.18683"
            id="rect6600-5" /></flowRegion><flowPara
          id="flowPara6616-8"
-         style="font-weight:normal;font-size:26.66666794px;fill:#0000ff">app : LCD <flowSpan
+         style="font-weight:normal;font-size:26.66666794px;fill:#0000ff">app : dLC <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
-   id="flowSpan6608-3">×</flowSpan> FreeCommutativeMonoid(LCD) <flowSpan
+   id="flowSpan6608-3">×</flowSpan> FreeCommutativeMonoid(dLC) <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
-   id="flowSpan6612-1">→</flowSpan> LCD</flowPara></flowRoot>  </g>
+   id="flowSpan6612-1">→</flowSpan> dLC</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Equations"
@@ -17293,7 +17293,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g9537"
-     inkscape:label="Our target: LCD">
+     inkscape:label="Our target: dLC">
     <flowRoot
        xml:space="preserve"
        id="flowRoot9336"
@@ -17581,7 +17581,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g11512"
-     inkscape:label="Algebraic 1-signature for LCD">
+     inkscape:label="Algebraic 1-signature for dLC">
     <flowRoot
        xml:space="preserve"
        id="flowRoot11337"
@@ -17712,7 +17712,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
          id="flowPara11414">Σ<flowSpan
    id="flowSpan11410"
-   style="font-size:64.99999762%;baseline-shift:sub;fill:#0000ff">LCD</flowSpan>(R) = Σ<flowSpan
+   style="font-size:64.99999762%;baseline-shift:sub;fill:#0000ff">dLC</flowSpan>(R) = Σ<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="flowSpan17993">LC</flowSpan>(R) <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1"
@@ -17888,7 +17888,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#0000ff;stroke-width:0.72393453">}</tspan></text>
   </g>
   <g
-     inkscape:label="Elementary equations for LCD"
+     inkscape:label="Elementary equations for dLC"
      id="g17239"
      inkscape:groupmode="layer"
      style="display:none">
@@ -20255,7 +20255,7 @@
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara21033"><flowSpan
    id="flowSpan21023"
-   style="font-weight:bold">Solution </flowSpan>[CSL AHLM 2010]:  </flowPara><flowPara
+   style="font-weight:bold">Solution </flowSpan>[CSL AHLM 2018]:  </flowPara><flowPara
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara95232">1. define    <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
@@ -20927,7 +20927,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
          id="flowPara30604">  <flowSpan
    style="fill:#0000ff"
-   id="flowSpan30602">LCD : Set → Set</flowSpan></flowPara><flowPara
+   id="flowSpan30602">dLC : Set → Set</flowSpan></flowPara><flowPara
          id="flowPara30606"
          style="font-size:26.66666794px" /><flowPara
          id="flowPara30608"
@@ -21083,13 +21083,13 @@
    style="fill:#0000ff"
    id="flowSpan3341">For each function </flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
-   id="flowSpan7213">u : X → LCD(Y)</flowSpan><flowSpan
+   id="flowSpan7213">u : X → dLC(Y)</flowSpan><flowSpan
    style="fill:#0000ff"
    id="flowSpan3343">, a function </flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff"
    id="flowSpan7215">bind<flowSpan
    style="font-size:64.99999762%;baseline-shift:sub;fill:#0000ff"
-   id="flowSpan7217">u</flowSpan> : LCD(X) → LCD(Y)</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan7217">u</flowSpan> : dLC(X) → dLC(Y)</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3352"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -21162,7 +21162,7 @@
    id="flowSpan7201"
    style="font-size:64.99999762%;baseline-shift:sub;fill:#0000ff">X</flowSpan></flowSpan> : X <flowSpan
    id="flowSpan7205"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff">→</flowSpan> LCD(X))<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;fill:#0000ff">→</flowSpan> dLC(X))<flowSpan
    id="flowSpan7207"
    style="font-size:64.99999762%;baseline-shift:sub;fill:#0000ff">X</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -22922,7 +22922,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g6418"
-     inkscape:label="Copie de Our target: LCD"
+     inkscape:label="Copie de Our target: dLC"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
