@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1028646"
+     inkscape:zoom="1.0659752"
      inkscape:cx="511.42862"
-     inkscape:cy="388.57142"
+     inkscape:cy="313.52277"
      inkscape:document-units="mm"
-     inkscape:current-layer="g60813"
+     inkscape:current-layer="g11512"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
-     inkscape:window-height="1012"
+     inkscape:window-height="983"
      inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-y="76"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -2549,6 +2549,68 @@
          id="flowPara59242">intial model</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-10.94292,-10.163674)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot562861"
+       xml:space="preserve"><flowRegion
+         id="flowRegion562833"><rect
+           y="179.20021"
+           x="71.043488"
+           height="629.04285"
+           width="1013.609"
+           id="rect562831" /></flowRegion><flowPara
+         id="flowPara562843"
+         style="font-weight:bold;font-size:26.66666794px"><flowSpan
+           id="flowSpan562835"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">The</flowSpan><flowSpan
+           id="flowSpan562839"
+           style="font-style:italic"> differentiable λ-calculus <flowSpan
+   style="font-style:normal;font-weight:normal"
+   id="flowSpan562837">(LCD)</flowSpan> </flowSpan><flowSpan
+           style="font-weight:normal"
+           id="flowSpan562841">was introduced by</flowSpan></flowPara><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562845"> [Ehrard-Regnier 2003]. </flowPara><flowPara
+         style="font-weight:bold;font-size:26.66666794px"
+         id="flowPara562847" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562849" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562851" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562853" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562855" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562857" /><flowPara
+         id="flowPara562859"
+         style="font-weight:bold;font-size:26.66666794px" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot562782"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,0.26105217)"><flowRegion
+         id="flowRegion562750"><rect
+           id="rect562748"
+           width="1013.609"
+           height="629.04285"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         id="flowPara562762"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         id="flowPara562764"
+         style="font-weight:bold;font-size:26.66666794px" /><flowPara
+         id="flowPara562766"
+         style="font-weight:normal;font-size:26.66666794px">The syntax is not straightforward, as it involves some equations.</flowPara><flowPara
+         id="flowPara562772"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         id="flowPara562774"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         id="flowPara562776"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         id="flowPara562778"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         style="font-weight:bold;font-size:26.66666794px"
+         id="flowPara562780" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,18.132012)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot65600"
        xml:space="preserve"><flowRegion
          id="flowRegion65568"><rect
@@ -2557,22 +2619,8 @@
            height="629.04285"
            width="1013.609"
            id="rect65566" /></flowRegion><flowPara
-         id="flowPara65578"
-         style="font-weight:bold;font-size:26.66666794px"><flowSpan
-           id="flowSpan65570"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">The</flowSpan><flowSpan
-           id="flowSpan65574"
-           style="font-style:italic"> differentiable λ-calculus <flowSpan
-   style="font-style:normal;font-weight:normal"
-   id="flowSpan65572">(LCD)</flowSpan> </flowSpan><flowSpan
-           style="font-weight:normal"
-           id="flowSpan65576">was introduced by</flowSpan></flowPara><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara65580"> [Ehrard-Regnier 2003]. </flowPara><flowPara
-         style="font-weight:bold;font-size:26.66666794px"
-         id="flowPara65582" /><flowPara
-         style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara65584">The syntax is not straightforward, as it involves some equations.</flowPara><flowPara
+         id="flowPara65584" /><flowPara
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara65586" /><flowPara
          style="font-weight:normal;font-size:26.66666794px"
@@ -2590,7 +2638,7 @@
        xml:space="preserve"
        id="flowRoot407103"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,32.686745,91.694045)"
+       transform="matrix(0.26458333,0,0,0.26458333,32.686745,134.8822)"
        ns1:effectIn="name:appear;order:2;length:800"><flowRegion
          id="flowRegion407099"><rect
            id="rect407097"
@@ -2601,7 +2649,7 @@
          style="font-weight:normal;font-size:26.66666794px"
          id="flowPara407101">The next slides give 3 variants of the syntax:</flowPara></flowRoot>    <flowRoot
        ns1:effectIn="name:appear;order:2;length:800"
-       transform="matrix(0.26458333,0,0,0.26458333,-7.096271,108.07528)"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.096271,227.71142)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot59574"
        xml:space="preserve"><flowRegion
@@ -2646,7 +2694,41 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara59306">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>  </g>
+         id="flowPara59306">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot562746"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.638534,79.876599)"><flowRegion
+         id="flowRegion562736"><rect
+           id="rect562734"
+           width="1023.9102"
+           height="391.57135"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara562740">No well-established <flowSpan
+   id="flowSpan562738"
+   style="font-style:italic">scheme</flowSpan> is commonly used beyond BNF grammars.</flowPara><flowPara
+         id="flowPara562742"
+         style="font-weight:normal;font-size:17.33333397px;line-height:1.25" /><flowPara
+         id="flowPara562744"
+         style="font-weight:normal;font-size:26.66666794px" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-10.638534,73.919613)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot71620-7"
+       xml:space="preserve"><flowRegion
+         id="flowRegion71616-3"><rect
+           y="179.20021"
+           x="71.043488"
+           height="391.57135"
+           width="1023.9102"
+           id="rect71614-5" /></flowRegion><flowPara
+         id="flowPara71618-9"
+         style="font-weight:normal;font-size:26.66666794px" /><flowPara
+         style="font-weight:normal;font-size:17.33333397px;line-height:1.25"
+         id="flowPara419521-7" /><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara419513-0">We propose a mathematical theory of presentations of monads, which induces a scheme for presenting syntaxes.</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Syntax of LCD: version 1/3"
      id="g10823"
@@ -2923,6 +3005,27 @@
        id="image6461"
        x="9.2394733"
        y="128.90857" />
+    <rect
+       y="79.592529"
+       x="61.059109"
+       height="10.92114"
+       width="22.090488"
+       id="rect562682"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22882572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       y="116.82369"
+       x="67.016098"
+       height="13.899632"
+       width="26.061813"
+       id="rect562684"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28039622;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25228241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect562680"
+       width="21.097658"
+       height="13.899632"
+       x="36.238335"
+       y="116.82369" />
     <path
        style="fill:none;stroke:#0000f9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker23807)"
        d="m 159.62003,105.34667 c -6.04289,-2.34432 -9.88927,-0.57932 -12.74236,-3.96791 -1.08978,-1.29431 -2.50564,-4.828944 -3.40806,-7.337395"
@@ -3158,6 +3261,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        ns1:effectIn="name:appear;order:2;length:800" />
+    <rect
+       y="100.93841"
+       x="61.431419"
+       height="10.92114"
+       width="22.090488"
+       id="rect562682-0"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22882573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
   <g
      inkscape:label="Syntax of LCD: version 3/3"
@@ -3487,7 +3597,7 @@
        xml:space="preserve"
        id="flowRoot46761"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-125.23053,40.31638)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-121.75562,48.259029)"><flowRegion
          id="flowRegion46763"><rect
            id="rect46765"
            width="443.64603"
@@ -3495,7 +3605,7 @@
            x="492.1908"
            y="438.97382" /></flowRegion><flowPara
          id="flowPara46767"
-         style="font-size:26.66666794px">Turn [Categorical Models for Simply Typed Resource Calculi]'s abbreviations into equations: </flowPara></flowRoot>    <g
+         style="font-size:26.66666794px">[Categorical Models for Simply Typed Resource Calculi] </flowPara></flowRoot>    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ns0:jacobian_sqrt="0.833614"
        inkscapeversion="0.92.4"
@@ -3515,7 +3625,7 @@
        font-style="normal"
        stroke-miterlimit="10.433"
        xml:space="preserve"
-       transform="matrix(0.833614,0,0,-0.833614,-55.847727,695.70154)"
+       transform="matrix(0.833614,0,0,-0.833614,-64.783207,695.70154)"
        id="content">
 <path
    id="path53623"
@@ -3963,7 +4073,7 @@
        xml:space="preserve"
        id="flowRoot71602"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-27.347091,37.810158)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-27.347091,3.8056941)"><flowRegion
          id="flowRegion71586"><rect
            id="rect71584"
            width="1091.9066"
@@ -3987,7 +4097,7 @@
        xml:space="preserve"
        id="flowRoot71612"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,77.571939,123.03556)"
+       transform="matrix(0.26458333,0,0,0.26458333,77.571939,93.250628)"
        ns1:effectIn="name:appear;order:2;length:800"><flowRegion
          id="flowRegion71606"><rect
            id="rect71604"
@@ -4008,25 +4118,7 @@
            x="71.043488"
            y="179.20021" /></flowRegion><flowPara
          style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara419509">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-10.94292,-6.5019545)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot71620"
-       xml:space="preserve"><flowRegion
-         id="flowRegion71616"><rect
-           y="179.20021"
-           x="71.043488"
-           height="391.57135"
-           width="1023.9102"
-           id="rect71614" /></flowRegion><flowPara
-         id="flowPara71618"
-         style="font-weight:normal;font-size:26.66666794px">There is no well-established <flowSpan
-   style="font-style:italic"
-   id="flowSpan419517">scheme</flowSpan> for presenting a syntax.</flowPara><flowPara
-         style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara419521" /><flowPara
-         style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara419513">We propose such a scheme (which is the counterpart of a mathematical theory of presentations of monads).</flowPara></flowRoot>  </g>
+         id="flowPara419509">- How can we compare this version of the syntax with other ones ?</flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:groupmode="layer"
@@ -18438,13 +18530,7 @@
            id="flowPara9481"
            style="font-weight:bold;font-size:26.66666794px"><flowSpan
              id="flowSpan9475"
-             style="font-weight:normal"><flowSpan
-   id="flowSpan9473"
-   style="font-style:italic">Differential λ-terms</flowSpan> </flowSpan><flowSpan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'"
-             id="flowSpan9477">s,t ∈ Λ</flowSpan><flowSpan
-             id="flowSpan9479"
-             style="font-weight:normal"> </flowSpan></flowPara></flowRoot>    </g>
+             style="font-style:italic;font-weight:normal">Differential λ-terms</flowSpan></flowPara></flowRoot>    </g>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,29.30421,19.11072)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -18642,7 +18728,7 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;fill:#0000ff">' </flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1"
    id="flowSpan546208">∐</flowSpan> (R × R)</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,80.584435,7.1307757)"
+       transform="matrix(0.26458333,0,0,0.26458333,85.052175,8.1236068)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
        id="flowRoot11396"
        xml:space="preserve"><flowRegion
@@ -18748,13 +18834,7 @@
            id="flowPara11454"
            style="font-weight:bold;font-size:26.66666794px"><flowSpan
              id="flowSpan11448"
-             style="font-weight:normal"><flowSpan
-   id="flowSpan11446"
-   style="font-style:italic">Simple terms</flowSpan> </flowSpan><flowSpan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold'"
-             id="flowSpan11450">s,t ∈ Λ</flowSpan><flowSpan
-             id="flowSpan11452"
-             style="font-weight:normal"> </flowSpan></flowPara></flowRoot>    </g>
+             style="font-style:italic;font-weight:normal">Differential λ-terms</flowSpan></flowPara></flowRoot>    </g>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,29.30421,22.285722)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -18876,7 +18956,7 @@
      inkscape:label="Elementary equations for LCD"
      id="g17239"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot17049"
@@ -21446,7 +21526,7 @@
        sodipodi:nodetypes="cc" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Conclusion"
      id="g60813"
      inkscape:groupmode="layer">
