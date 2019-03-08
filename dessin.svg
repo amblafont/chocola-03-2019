@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75518349"
-     inkscape:cx="774.75235"
-     inkscape:cy="409.81908"
+     inkscape:zoom="1.0807292"
+     inkscape:cx="511.42862"
+     inkscape:cy="388.57142"
      inkscape:document-units="mm"
-     inkscape:current-layer="g91607"
+     inkscape:current-layer="g75195"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
@@ -49,6 +49,20 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker75221"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path75219" />
+    </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
        orient="auto"
@@ -2229,6 +2243,22 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path115354-95-6"
          inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker60861-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path60859-1-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
   </defs>
   <metadata
@@ -5839,7 +5869,7 @@
 <polygon
    id="polygon5360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 " />
+   points="170.52,655.14 169.55,655.14 169.55,664.31 170.52,664.31 170.52,664.7 169.15,664.7 169.15,654.74 170.52,654.74 " />
 <path
    inkscape:connector-curvature="0"
    d="m 174.07,660.24 0.01,0.03 0.01,0.03 v 0.03 l 0.01,0.04 0.01,0.03 0.02,0.05 0.01,0.04 0.01,0.04 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.03,0.05 0.04,0.04 0.03,0.05 0.04,0.04 0.04,0.03 0.05,0.04 0.05,0.03 0.04,0.03 0.03,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.02 l 0.03,0.01 0.03,0.01 h 0.03 0.03 l 0.04,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.53,0.18 0.53,0.58 0,0.52 -0.58,0.66 -0.92,0.66 -0.58,0 -0.93,-0.53 -1.05,-0.76 -0.25,0.66 -0.78,0.76 -1.07,0.76 -1.04,0 -1.61,-1.29 -1.61,-1.54 0,-0.1 0.1,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.06 1,1.31 1.34,1.31 0.19,0 0.53,-0.09 0.53,-0.67 0,-0.31 -0.17,-0.98 -0.53,-2.37 -0.16,-0.62 -0.51,-1.04 -0.95,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.3,0 -0.55,-0.26 -0.55,-0.58 0,-0.46 0.5,-0.66 0.94,-0.66 0.66,0 1.02,0.7 1.05,0.76 0.12,-0.37 0.47,-0.76 1.07,-0.76 1.03,0 1.6,1.29 1.6,1.54 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.04 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.33,-1.31 -0.39,0 -0.55,0.32 -0.55,0.66 0,0.22 0.06,0.44 0.17,0.88 z"
@@ -5868,7 +5898,7 @@
 <polygon
    id="polygon5372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="202,655.14 202,654.74 203.36,654.74 203.36,664.7 202,664.7 202,664.31 202.97,664.31 202.97,655.14 " />
+   points="202,664.7 202,664.31 202.97,664.31 202.97,655.14 202,655.14 202,654.74 203.36,654.74 203.36,664.7 " />
 <path
    inkscape:connector-curvature="0"
    d="m 214.16,660.49 h 0.03 0.03 0.03 0.01 0.02 0.01 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.01 l 0.02,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0.01 h 0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 0.01 0.01 h 0.01 v 0.01 0.01 0.01 0.01 c 0,0.2 -0.19,0.2 -0.33,0.2 h -5.97 c -0.14,0 -0.33,0 -0.33,-0.2 0,-0.2 0.19,-0.2 0.34,-0.2 z"
@@ -5887,7 +5917,7 @@
 <polygon
    id="polygon5380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="223,655.14 223,664.31 223.97,664.31 223.97,664.7 222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 " />
+   points="222.61,664.7 222.61,654.74 223.97,654.74 223.97,655.14 223,655.14 223,664.31 223.97,664.31 223.97,664.7 " />
 <path
    inkscape:connector-curvature="0"
    d="m 227.52,660.24 0.01,0.03 0.01,0.03 0.01,0.03 0.01,0.04 0.01,0.03 0.01,0.05 0.01,0.04 0.02,0.04 0.01,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.02,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.03,0.05 0.04,0.04 0.04,0.05 0.04,0.04 0.04,0.03 0.04,0.04 0.05,0.03 0.05,0.03 0.02,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.03 l 0.03,0.01 0.03,0.01 h 0.03 0.03 l 0.03,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.54,0.18 0.54,0.58 0,0.52 -0.59,0.66 -0.93,0.66 -0.58,0 -0.92,-0.53 -1.04,-0.76 -0.25,0.66 -0.79,0.76 -1.08,0.76 -1.04,0 -1.61,-1.29 -1.61,-1.54 0,-0.1 0.11,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.06 1,1.31 1.34,1.31 0.19,0 0.54,-0.09 0.54,-0.67 0,-0.31 -0.17,-0.98 -0.54,-2.37 -0.16,-0.62 -0.51,-1.04 -0.95,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.29,0 -0.54,-0.26 -0.54,-0.58 0,-0.46 0.5,-0.66 0.93,-0.66 0.66,0 1.02,0.7 1.05,0.76 0.12,-0.37 0.48,-0.76 1.07,-0.76 1.03,0 1.6,1.29 1.6,1.54 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.04 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.32,-1.31 -0.39,0 -0.55,0.32 -0.55,0.66 0,0.22 0.06,0.44 0.17,0.88 z"
@@ -5914,7 +5944,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5390" />
 <polygon
-   points="255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 "
+   points="255.45,664.31 256.42,664.31 256.42,655.14 255.45,655.14 255.45,654.74 256.82,654.74 256.82,664.7 255.45,664.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5392" />
 <path
@@ -5923,7 +5953,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5394" />
 <polygon
-   points="268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 "
+   points="268.45,654.74 268.45,655.14 267.49,655.14 267.49,664.31 268.45,664.31 268.45,664.7 267.09,664.7 267.09,654.74 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5396" />
 <path
@@ -5952,7 +5982,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path5406" />
 <polygon
-   points="299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 "
+   points="299.94,654.74 301.31,654.74 301.31,664.7 299.94,664.7 299.94,664.31 300.91,664.31 300.91,655.14 299.94,655.14 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon5408" />
 </g>    <path
@@ -6023,7 +6053,7 @@
 <polygon
    id="polygon92358"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="179.11,654.74 180.48,654.74 180.48,655.14 179.51,655.14 179.51,664.31 180.48,664.31 180.48,664.7 179.11,664.7 " />
+   points="179.51,664.31 180.48,664.31 180.48,664.7 179.11,664.7 179.11,654.74 180.48,654.74 180.48,655.14 179.51,655.14 " />
 <path
    id="path92360"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -6052,7 +6082,7 @@
 <polygon
    id="polygon92370"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="213.32,654.74 213.32,664.7 211.96,664.7 211.96,664.31 212.93,664.31 212.93,655.14 211.96,655.14 211.96,654.74 " />
+   points="212.93,664.31 212.93,655.14 211.96,655.14 211.96,654.74 213.32,654.74 213.32,664.7 211.96,664.7 211.96,664.31 " />
 <path
    id="path92372"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -6071,7 +6101,7 @@
 <polygon
    id="polygon92378"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="232.57,654.74 233.93,654.74 233.93,655.14 232.96,655.14 232.96,664.31 233.93,664.31 233.93,664.7 232.57,664.7 " />
+   points="232.96,664.31 233.93,664.31 233.93,664.7 232.57,664.7 232.57,654.74 233.93,654.74 233.93,655.14 232.96,655.14 " />
 <path
    id="path92380"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -6100,7 +6130,7 @@
 <polygon
    id="polygon92390"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="266.78,654.74 266.78,664.7 265.41,664.7 265.41,664.31 266.38,664.31 266.38,655.14 265.41,655.14 265.41,654.74 " />
+   points="266.38,664.31 266.38,655.14 265.41,655.14 265.41,654.74 266.78,654.74 266.78,664.7 265.41,664.7 265.41,664.31 " />
 <path
    id="path92392"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -6114,7 +6144,7 @@
 <polygon
    id="polygon92396"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="287.02,654.74 288.38,654.74 288.38,655.14 287.41,655.14 287.41,664.31 288.38,664.31 288.38,664.7 287.02,664.7 " />
+   points="287.41,664.31 288.38,664.31 288.38,664.7 287.02,664.7 287.02,654.74 288.38,654.74 288.38,655.14 287.41,655.14 " />
 <path
    id="path92398"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -6143,7 +6173,7 @@
 <polygon
    id="polygon92408"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="321.23,654.74 321.23,664.7 319.86,664.7 319.86,664.31 320.83,664.31 320.83,655.14 319.86,655.14 319.86,654.74 " />
+   points="320.83,664.31 320.83,655.14 319.86,655.14 319.86,654.74 321.23,654.74 321.23,664.7 319.86,664.7 319.86,664.31 " />
 </g>  </g>
   <g
      style="display:none"
@@ -17535,6 +17565,360 @@
        id="path9340-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:groupmode="layer"
+     id="g74813"
+     inkscape:label="Table of contents  ">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot74773"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion74769"><rect
+           id="rect74767"
+           width="908.30945"
+           height="218.39746"
+           x="66.079231"
+           y="464.48352" /></flowRegion><flowPara
+         id="flowPara74771" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot74781"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion74777"><rect
+           id="rect74775"
+           width="885.90967"
+           height="215.03749"
+           x="103.0388"
+           y="483.52332" /></flowRegion><flowPara
+         id="flowPara74779"
+         style="font-size:16px" /></flowRoot>    <g
+       style="display:inline"
+       transform="translate(-21.966245,2.021076)"
+       id="g74811">
+      <g
+         id="g74807"
+         transform="translate(46.403845,11.723077)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-13.01206,-86.060406)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot74805"
+           xml:space="preserve"><flowRegion
+             id="flowRegion74785"><rect
+               y="427.52396"
+               x="35.839584"
+               height="527.36682"
+               width="1010.5856"
+               id="rect74783" /></flowRegion><flowPara
+             id="flowPara74787"
+             style="font-weight:bold;font-size:28.00000191px;line-height:0" /><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara74789" /><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara74791">1. 1-Signatures and models based on monads and modules</flowPara><flowPara
+             id="flowPara74793"
+             style="font-weight:bold;font-size:28.00000191px;line-height:0" /><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara74795">2. Equations</flowPara><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara74797" /><flowPara
+             style="font-weight:normal;font-size:28.00000191px;line-height:0"
+             id="flowPara74799">3. Recursion</flowPara><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara74815" /><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara74817">4. Sketh of the proof of initiality </flowPara><flowPara
+             id="flowPara74801"
+             style="font-weight:normal;font-size:28.00000191px;line-height:0" /><flowPara
+             style="font-weight:bold;font-size:28.00000191px;line-height:0"
+             id="flowPara74803">  </flowPara></flowRoot>      </g>
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="g74809"
+         transform="matrix(1.058333,0,0,-1.058333,-133.01654,848.6661)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"
+         ns0:version="0.8.0"
+         ns0:texconverter="pdflatex"
+         ns0:pdfconverter="pstoedit"
+         ns0:text="$\n{\\color{blue}x}\n+\n({\\color{red}y}\\times 3)\n\\qquad\n\\overset{\\text{substitution}}\n{\n\\underset\n{\n{\\color{blue}x\\mapsto 2},\n{\\color{red}y\\mapsto z+5}\n}\n{\\longmapsto}\n}\n\\qquad\n{\\color{blue}2}\n+\n({\\color{red}(z+5)}\n\\times 3)\n$"
+         ns0:preamble="/home/amblaf/.config/inkscape/extensions/default_packages.tex"
+         ns0:scale="3.0"
+         ns0:alignment="middle center"
+         inkscapeversion="0.92.3"
+         ns0:jacobian_sqrt="1.058333">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g>    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="g75195"
+     inkscape:label="Initial semantics for algebraic 2-signatures">
+    <flowRoot
+       transform="translate(6.6535756,17.449851)"
+       xml:space="preserve"
+       id="flowRoot74825"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion74821"
+         style="font-size:26.66666603px"><rect
+           id="rect74819"
+           width="911.72473"
+           height="387.50992"
+           x="66.737816"
+           y="163.05397"
+           style="font-size:26.66666603px" /></flowRegion><flowPara
+         id="flowPara74823" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot74905"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion74901"><rect
+           id="rect74899"
+           width="908.30945"
+           height="218.39746"
+           x="66.079231"
+           y="464.48352" /></flowRegion><flowPara
+         id="flowPara74903" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot74913"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion74909"><rect
+           id="rect74907"
+           width="885.90967"
+           height="215.03749"
+           x="103.0388"
+           y="483.52332" /></flowRegion><flowPara
+         id="flowPara74911"
+         style="font-size:16px" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,225.60552,94.184727)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot75067"
+       xml:space="preserve"><flowRegion
+         id="flowRegion75063"><rect
+           y="129.23077"
+           x="51.692307"
+           height="193.16086"
+           width="947.31049"
+           id="rect75061" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75065" /></flowRoot>    <rect
+       style="display:inline;fill:#9bc8ff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.36277676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect75539"
+       width="258.88245"
+       height="24.150337"
+       x="6.6782947"
+       y="57.197727" />
+    <rect
+       y="105.86277"
+       x="6.6243014"
+       height="15.68965"
+       width="196.56152"
+       id="rect47103-0-4-0-6"
+       style="display:inline;fill:#9bc8ff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.25479001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       y="53.186207"
+       x="12.773281"
+       height="6.9570322"
+       width="115.60214"
+       id="rect75541"
+       style="display:inline;fill:#c2c5ff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.13011321;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       style="display:inline;fill:#c2c5ff;fill-opacity:0.92924529;stroke:#000000;stroke-width:0.06789861;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect45368-1-3-0-9"
+       width="31.201708"
+       height="7.0192466"
+       x="12.742174"
+       y="101.87415" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-25.621199,15.382298)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot75549"
+       xml:space="preserve"><flowRegion
+         style="fill:#000000;fill-opacity:1"
+         id="flowRegion75545"><rect
+           style="fill:#000000;fill-opacity:1"
+           y="128.59955"
+           x="154.67915"
+           height="81.460159"
+           width="437.33276"
+           id="rect75543" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:21.33333397px;fill:#000000;fill-opacity:1"
+         id="flowPara75547">Theorem [Hirschowitz &amp; Maggesi 2007]</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot46631-2-1-9-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.621199,64.101333)"><flowRegion
+         id="flowRegion46633-2-9-5-7"
+         style="fill:#000000;fill-opacity:1"><rect
+           id="rect46635-2-8-9-5"
+           width="437.33276"
+           height="81.460159"
+           x="154.67915"
+           y="128.59955"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara46637-4-1-8-5"
+         style="font-weight:normal;font-size:21.33333397px;fill:#000000;fill-opacity:1">Theorem </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot75595"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52577166,-76.973968)"><flowRegion
+         id="flowRegion75583"
+         style="line-height:1"><rect
+           id="rect75581"
+           width="971.81409"
+           height="374.25479"
+           x="42.461536"
+           y="512.30768"
+           style="line-height:1" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75593">Syntax exists for any <flowSpan
+   id="flowSpan75585"
+   style="font-weight:bold">algebraic 1-signature</flowSpan>, i.e. 1-signature built out of derivatives, products, disjoint unions, and the 1-signature <flowSpan
+   id="flowSpan75587"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">R</flowSpan> <flowSpan
+   id="flowSpan75589"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">↦</flowSpan> <flowSpan
+   id="flowSpan75591"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">R.</flowSpan></flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0.52577166,-3.0385474)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot75565"
+       xml:space="preserve"><flowRegion
+         style="line-height:1"
+         id="flowRegion75553"><rect
+           style="line-height:1"
+           y="512.30768"
+           x="42.461536"
+           height="374.25479"
+           width="971.81409"
+           id="rect75551" /></flowRegion><flowPara
+         id="flowPara75563"
+         style="font-weight:bold;font-size:26.66666794px">Sketch of the construction of the syntax:</flowPara><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75597">1. Take R the initial model of Σ</flowPara><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75599">2. Quotient it by the following relation: </flowPara><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75601"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan75605">       x ~ y in R(X)</flowSpan>    <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan78920">iff</flowSpan>     for any model S of (<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan75603">Σ, E) ,  <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan75617">i</flowSpan>(x) = <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan75619">i</flowSpan>(y)</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot75537"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52577166,-28.254933)"><flowRegion
+         id="flowRegion75525"
+         style="line-height:1"><rect
+           id="rect75523"
+           width="971.81409"
+           height="374.25479"
+           x="42.461536"
+           y="512.30768"
+           style="line-height:1" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75535">Syntax exists for any <flowSpan
+   id="flowSpan75527"
+   style="font-weight:bold">algebraic 2-signature </flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan75577">(Σ , E)</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot75573"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52577166,-97.049149)"><flowRegion
+         id="flowRegion75569"
+         style="line-height:1"><rect
+           id="rect75567"
+           width="971.81409"
+           height="374.25479"
+           x="42.461536"
+           y="512.30768"
+           style="line-height:1" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:26.66666794px"
+         id="flowPara75571">Reminder:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot74940-9-18"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,75.799036,133.74655)"><flowRegion
+         style="fill:#0000ff"
+         id="flowRegion74934-1-0"><rect
+           style="fill:#0000ff"
+           id="rect74932-2-8"
+           width="955.57379"
+           height="777.07465"
+           x="71.043488"
+           y="179.20021" /></flowRegion><flowPara
+         style="font-size:26.66666794px;fill:#0000ff"
+         id="flowPara74938-8-8">initial <flowSpan
+   style="-inkscape-font-specification:MathJax_Main;font-family:MathJax_Main;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan80530">Σ</flowSpan>-model morphism <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="flowSpan78918">i : R → S</flowSpan></flowPara></flowRoot>    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path56806-0-4"
+       d="m 176.91409,183.00914 c 2.45618,0.0889 4.37942,-1.48411 5.94202,-3.39839 0.69235,-0.84816 1.99548,-4.29488 1.99548,-4.29488"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker60861-6-2)" />
   </g>
   <g
      style="display:none"
