@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1184896"
+     inkscape:zoom="1.0815884"
      inkscape:cx="569.20987"
-     inkscape:cy="-76.341262"
+     inkscape:cy="219.51991"
      inkscape:document-units="mm"
-     inkscape:current-layer="g350222"
+     inkscape:current-layer="g33304"
      showgrid="false"
      units="px"
      inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2640,30 +2640,9 @@
          style="font-weight:bold;font-size:26.66666794px"
          id="flowPara39853" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot39879"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-7.096271,227.71142)"
-       ns1:effectIn="name:appear;order:2;length:800"><flowRegion
-         id="flowRegion39867"><rect
-           id="rect39865"
-           width="1013.609"
-           height="629.04285"
-           x="71.043488"
-           y="179.20021" /></flowRegion><flowPara
-         style="font-weight:normal;font-size:26.66666794px"
-         id="flowPara39873">1. Mutual definition of <flowSpan
-   id="flowSpan39869"
-   style="font-style:italic">simple terms </flowSpan>and <flowSpan
-   id="flowSpan39871"
-   style="font-style:italic">differential λ-terms</flowSpan></flowPara><flowPara
-         id="flowPara39875"
-         style="font-weight:normal;font-size:26.66666794px">2. Stand-alone definition of simple terms</flowPara><flowPara
-         id="flowPara39877"
-         style="font-weight:normal;font-size:26.66666794px">3. Stand-alone definition of differential λ-terms.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        id="flowRoot39889"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-13.482043,78.494581)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-13.482043,71.155837)"><flowRegion
          id="flowRegion39883"
          style="line-height:1.5"><rect
            id="rect39881"
@@ -2696,7 +2675,7 @@
      inkscape:label="Syntax of dLC: [Ehrhard-Regnier 2003]"
      id="g33304"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot33126"
@@ -2827,10 +2806,10 @@
        inkscape:connector-curvature="0"
        id="path47194"
        d="m 179.16323,192.30499 h 51.54011"
-       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        ns1:effectIn="name:appear;order:2;length:800" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.26878333px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.469;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 20.156992,198.97314 H 65.386068"
        id="path47192"
        inkscape:connector-curvature="0"
@@ -18465,7 +18444,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">=</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="g350222"
      inkscape:label="Fixpoint operators">
@@ -18781,7 +18760,7 @@
    id="path349690" />
 <polygon
    style="fill:#000000;stroke-width:0"
-   points="326.23,654.95 326.23,655.34 324.86,655.34 324.86,645.38 326.23,645.38 326.23,645.78 325.26,645.78 325.26,654.95 "
+   points="324.86,655.34 324.86,645.38 326.23,645.38 326.23,645.78 325.26,645.78 325.26,654.95 326.23,654.95 326.23,655.34 "
    id="polygon349692" />
 <path
    style="fill:#000000;stroke-width:0"
@@ -18810,7 +18789,7 @@
    id="path349702" />
 <polygon
    style="fill:#000000;stroke-width:0"
-   points="362.04,645.78 361.07,645.78 361.07,645.38 362.44,645.38 362.44,655.34 361.07,655.34 361.07,654.95 362.04,654.95 "
+   points="361.07,645.38 362.44,645.38 362.44,655.34 361.07,655.34 361.07,654.95 362.04,654.95 362.04,645.78 361.07,645.78 "
    id="polygon349704" />
 <path
    style="fill:#000000;stroke-width:0"
@@ -18824,7 +18803,7 @@
    id="path349708" />
 <polygon
    style="fill:#000000;stroke-width:0"
-   points="326.23,642.99 326.23,643.39 324.86,643.39 324.86,633.43 326.23,633.43 326.23,633.83 325.26,633.83 325.26,642.99 "
+   points="324.86,643.39 324.86,633.43 326.23,633.43 326.23,633.83 325.26,633.83 325.26,642.99 326.23,642.99 326.23,643.39 "
    id="polygon349710" />
 <path
    style="fill:#000000;stroke-width:0"
@@ -18853,7 +18832,7 @@
    id="path349720" />
 <polygon
    style="fill:#000000;stroke-width:0"
-   points="362.04,633.83 361.07,633.83 361.07,633.43 362.44,633.43 362.44,643.39 361.07,643.39 361.07,642.99 362.04,642.99 "
+   points="361.07,633.43 362.44,633.43 362.44,643.39 361.07,643.39 361.07,642.99 362.04,642.99 362.04,633.83 361.07,633.83 "
    id="polygon349722" />
 <path
    style="fill:#000000;stroke-width:0"
@@ -19162,7 +19141,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path349830" />
 <polygon
-   points="347.19,648.86 347.19,649.26 345.82,649.26 345.82,639.3 347.19,639.3 347.19,639.7 346.22,639.7 346.22,648.86 "
+   points="345.82,649.26 345.82,639.3 347.19,639.3 347.19,639.7 346.22,639.7 346.22,648.86 347.19,648.86 347.19,649.26 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon349832" />
 <path
@@ -19196,7 +19175,7 @@
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="path349844" />
 <polygon
-   points="383,639.7 382.04,639.7 382.04,639.3 383.4,639.3 383.4,649.26 382.04,649.26 382.04,648.86 383,648.86 "
+   points="382.04,639.3 383.4,639.3 383.4,649.26 382.04,649.26 382.04,648.86 383,648.86 383,639.7 382.04,639.7 "
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
    id="polygon349846" />
 <path
@@ -19270,7 +19249,7 @@
 <polygon
    id="polygon349868"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="250.04,652.35 250.04,652.75 248.68,652.75 248.68,642.79 250.04,642.79 250.04,643.18 249.07,643.18 249.07,652.35 " />
+   points="248.68,652.75 248.68,642.79 250.04,642.79 250.04,643.18 249.07,643.18 249.07,652.35 250.04,652.35 250.04,652.75 " />
 <path
    id="path349870"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
@@ -19329,7 +19308,7 @@
 <polygon
    id="polygon349892"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
-   points="296.24,643.18 295.28,643.18 295.28,642.79 296.64,642.79 296.64,652.75 295.28,652.75 295.28,652.35 296.24,652.35 " />
+   points="295.28,642.79 296.64,642.79 296.64,652.75 295.28,652.75 295.28,652.35 296.24,652.35 296.24,643.18 295.28,643.18 " />
 <path
    id="path349894"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:1"
